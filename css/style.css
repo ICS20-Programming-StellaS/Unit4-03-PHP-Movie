@@ -1,0 +1,32 @@
+/* Created by: Stella S
+* Created on: May 2022
+* This CSS file defines the style for index.html
+* Unit4-03-PHP-Movie
+*/
+
+body {
+	background-color: Crimson;
+}
+
+form {
+	background-color: rgb(0, 0, 0);
+  font-weight: bold;
+  color: #ffffff;
+  font-family: 'Courier New', monospace;
+  font-size: 15pt;
+  margin: 5px;
+}
+
+iframe {
+  background-color: #f9dd53;
+  font-family: 'Courier New', monospace;
+  font-size: 15p
+}
+
+#display-results{
+  background-color: #f9dd53;
+	font-size: 20px;
+  color: #000000;
+  font-weight: bold;
+  font-family: 'Courier New', monospace;
+}
